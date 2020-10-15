@@ -7,7 +7,12 @@
     "type": "git",
     "url": "git+https://github.com/DFTECHSDEVCENTER/gen-dockerfile.git"
   },
-  "keywords": ["gen-dockerfile", "docker", "generator", "dftechs"],
+  "keywords": [
+    "gen-dockerfile",
+    "docker",
+    "generator",
+    "dftechs"
+  ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
