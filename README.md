@@ -1,24 +1,32 @@
 # gen-dockerfile
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![logo](https://raw.githubusercontent.com/DFCommunity/img-stack/master/Adobe_Post_20200912_0004510.9314596673956063.png)
 
 ## About
 
-A Dockerfile generator to Dockerize your Applications.
-This will help you create custom docker-images or docker containers.
+A Dockerfile generator to Dockerize your Applications. This will help you create
+custom docker-images or docker containers.
 
 ```yaml
 Current Version: 0.3.0
 ```
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) | ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+|
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)
 
-![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg) | ![forthebadge made-with-nodejs](https://ForTheBadge.com/images/badges/made-with-javascript.svg)
+![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)
+|
+![forthebadge made-with-nodejs](https://ForTheBadge.com/images/badges/made-with-javascript.svg)
 
-![Env](https://img.shields.io/badge/App%20Env-CLI%20compatible-yellow) | ![Dockerfile](https://img.shields.io/badge/Creates-Dockerfile-blue)
+![Env](https://img.shields.io/badge/App%20Env-CLI%20compatible-yellow) |
+![Dockerfile](https://img.shields.io/badge/Creates-Dockerfile-blue)
 
 ## Installation
 
@@ -32,7 +40,9 @@ npm i -g gen-dockerfile
 
 [![NPM](https://nodei.co/npm/gen-dockerfile.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gen-dockerfile)
 
-![npm (custom registry)](https://img.shields.io/npm/v/gen-dockerfile/latest?style=for-the-badge) | ![npm bundle size](https://img.shields.io/bundlephobia/min/gen-dockerfile?style=for-the-badge)
+![npm (custom registry)](https://img.shields.io/npm/v/gen-dockerfile/latest?style=for-the-badge)
+|
+![npm bundle size](https://img.shields.io/bundlephobia/min/gen-dockerfile?style=for-the-badge)
 
 ![Bugs](https://badgen.net/badge/bugs/expected/yellow?icon=github)
 
@@ -89,17 +99,21 @@ Website :- [Click Here](http://gen.docker.dfcommunity.win)
 
 NPMjs Registry :- [Click Here](https://www.npmjs.com/package/gen-dockerfile)
 
-GitHub Registry :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/packages/)
+GitHub Registry :-
+[Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/packages/)
 
-Docs and References :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/wiki)
+Docs and References :-
+[Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/wiki)
 
-Github Repository :- [Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/)
+Github Repository :-
+[Click Here](https://github.com/DFTECHSDEVCENTER/gen-dockerfile/)
 
 ### End
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people
+([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -112,6 +126,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the
+[all-contributors](https://github.com/all-contributors/all-contributors)
+specification. Contributions of any kind welcome!
