@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yrahul3910",
+      "name": "Rahul Yedida",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8930954?v=4",
+      "profile": "https://ryedida.me",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "gen-dockerfile",
+  "projectOwner": "DFTECHSDEVCENTER",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
